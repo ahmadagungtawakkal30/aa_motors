@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "data_barang": [
+        {
+            "id": "1",
+            "barang": "Ban Champion",
+            "stok": "10",
+            "harga": "350000",
+            "created": "2020-07-11 21:37:37",
+            "modified": "2020-07-11 21:37:37"
+        },
+        {
+            "id": "2",
+            "barang": "Ban Mobil Good Year",
+            "stok": "30",
+            "harga": "400000",
+            "created": "2020-07-11 21:38:34",
+            "modified": "2020-07-13 13:29:41"
+        }
+    ]
+}
